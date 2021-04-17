@@ -1,11 +1,11 @@
 <div align="center">
-<img src="![image](https://user-images.githubusercontent.com/67814686/115104715-e9f4ef00-9f77-11eb-8c08-83114a28e211.png)
-" align="center" style="width: 100%" />
+<h1 align="center">Hola,Folks👋🏻</h1> 
+<img src="https://pbs.twimg.com/profile_banners/1189041367449624576/1616311345/1080x360" align="center" style="width: 100%" />
 <br>
 </div>  
   
 
-### <div align="center"><h1>Hola,Folks👋🏻</h1><h3>This is Manish, A kiddo from India. Am a back-end guy, relinquished in solving computer problems and inciting CS education. Am a Utopian, a spiritual being, and a pathfinder.</h3></div>  
+### <div align="center"><h3>This is Manish, A kiddo from India. Am a back-end guy, relinquished in solving computer problems and inciting CS education. Am a Utopian, a spiritual being, and a pathfinder.</h3></div>  
   
 
 - 🌱 I’m currently learning Python, Swift, PHP  
